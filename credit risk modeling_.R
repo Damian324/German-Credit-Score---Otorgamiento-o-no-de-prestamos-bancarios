@@ -304,7 +304,7 @@ knn_acc
 rf_model_acc##best Acc
 svm_acc
 
-#rf_model_acc %75.6
+#rf_model_acc %79.6
 
 
 
